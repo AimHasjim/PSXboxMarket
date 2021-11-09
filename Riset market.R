@@ -2,10 +2,10 @@ library(twitteR)
 library(ROAuth)
 library(dplyr)
 library(ggplot2)
-consumer_key <- "Jangan liat sinii"
-consumer_secret <- "Ihh kepo dehh"
-access_token <- "hayo tebak hayoo"
-access_secret <- "ee ngerik yaaa"
+consumer_key <- "XXXXXXXXXXXXXXXXXXXXXXXX"
+consumer_secret <- "XXXXXXXXXXXXXXXXXXXXXXXX"
+access_token <- "XXXXXXXXXXXXXXXXXXXXXXXX"
+access_secret <- "XXXXXXXXXXXXXXXXXXXXXXXX"
 setup_twitter_oauth(consumer_key = consumer_key, 
                     consumer_secret = consumer_secret, access_token = access_token, 
                     access_secret = access_secret)
